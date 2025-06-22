@@ -1,0 +1,38 @@
+# Homebrew Cask Applications
+# Saved on: Sun Jun 22 10:46:59 MSK 2025
+# Run: ./scripts/install_brew_apps.sh to install these applications
+
+android-studio
+crystalfetch
+cursor
+cyberduck
+docker
+figma
+flutter
+google-chrome
+iina
+imazing
+iterm2
+jordanbaird-ice
+karabiner-elements
+lm-studio
+motrix
+obsidian
+outline-manager
+pearcleaner
+postgres-unofficial
+raycast
+rectangle
+stats
+stretchly
+telegram
+the-unarchiver
+utm
+visual-studio-code
+vlc
+webtorrent
+whatsapp
+windows-app
+yandex
+yandex-disk
+zoom
