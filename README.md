@@ -22,6 +22,7 @@ That's it! The script will handle everything automatically.
 - **Python 3** - Programming language
 - **Go** - Programming language
 - **PostgreSQL** - Database system
+- **Flutter** - Framework
 
 ### CLI Tools & Utilities
 - `curl`, `wget` - Download tools
