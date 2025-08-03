@@ -21,6 +21,7 @@ else
         "visual-studio-code"
         "iterm2"
         "docker"
+        "docker-desktop"
         "postman"
         "iina"
         "obsidian"
@@ -51,6 +52,9 @@ else
         "yandex"
         "yandex-disk"
         "zoom"
+        "openinterminal"
+        "openlens"
+        "crystalfetch"
     )
 fi
 
